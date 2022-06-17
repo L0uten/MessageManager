@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: Message Manager
+## Notes: Различные настройки и управление личными сообщениями
+## Author: Хасподь
+## Version: 0.2.1
+## SavedVariables: mainOptionDB, soundOptionDB, ignoreOptionDB
+
+MessageManager.lua
